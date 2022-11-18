@@ -41,3 +41,12 @@ img {
 	background: yellow;
 	border-radius: 7px;
 }
+.container{
+	display: inline-block;
+	padding: 10px;
+
+}
+.image{
+	width: 300px;
+	height: 200px;
+}
