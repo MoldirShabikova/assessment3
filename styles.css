@@ -36,3 +36,8 @@ input {
 img {
 	max-width: 300px;
 }
+.button{
+	padding: 15px;
+	background: yellow;
+	border-radius: 7px;
+}
