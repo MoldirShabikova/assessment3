@@ -50,3 +50,36 @@ img {
 	width: 300px;
 	height: 200px;
 }
+
+
+
+
+.third-box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 0px 10% 10% 10%;
+	text-align: center;
+  }
+  
+  .third-small-boxes {
+	margin: 20px;
+  }
+  
+  .third-small-boxes img {
+	height: 100px;
+  }
+
+.footer{	
+display: flex;
+text-align: center;
+justify-content: center;
+margin-top: 50PX;
+}
+
+.footer a{	 
+margin:  10px;
+ }
+		
+	
